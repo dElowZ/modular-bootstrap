@@ -1,0 +1,19 @@
+{
+  "name": "modular-bootstrap",
+  "version": "1.0.0",
+  "description": "Modular bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dElowZ/modular-bootstrap.git"
+  },
+  "author": "szabo bence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dElowZ/modular-bootstrap/issues"
+  },
+  "homepage": "https://github.com/dElowZ/modular-bootstrap#readme"
+}
