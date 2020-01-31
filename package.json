@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/dElowZ/modular-bootstrap/issues"
   },
-  "homepage": "https://github.com/dElowZ/modular-bootstrap#readme"
+  "homepage": "https://github.com/dElowZ/modular-bootstrap#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }

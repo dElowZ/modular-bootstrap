@@ -1,8 +1,10 @@
-@import './utllities/variables';
+@import './utilities/reboot';
 @import './mixins/grid-framework';
 @import './mixins/breakpoints';
 @import './mixins/grid';
-
+body, html {
+  box-sizing: border-box;
+}
 // Container widths
 //
 // Set the container width, and override it for fixed navbars in media queries.
@@ -24,7 +26,6 @@
     @include make-container();
   }
 }
-
 // Row
 //
 // Rows contain and clear the floats of your columns.
