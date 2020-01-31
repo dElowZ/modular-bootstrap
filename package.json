@@ -1,6 +1,6 @@
 {
   "name": "modular-bootstrap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Modular bootstrap",
   "main": "index.js",
   "scripts": {
